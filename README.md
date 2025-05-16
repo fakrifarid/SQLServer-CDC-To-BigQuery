@@ -15,3 +15,4 @@ This pipeline reads changes from SQL Server's log-based CDC tables (e.g., `cdc.f
 ---
 
 ## 📊 Architecture
+<img width="909" alt="Screenshot 2025-05-14 at 20 30 05" src="https://github.com/user-attachments/assets/57dddde3-91d3-43f4-a81b-afcf598861e5" />
