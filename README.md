@@ -154,17 +154,3 @@ python main.py \
 - JDBC access must be secured via VPN/PSC
 
 ---
-
-## 📈 Monitoring & Tips
-
-- Monitor LSN lag vs. latest ingested row
-- Store last LSN in Cloud Storage or BigQuery
-- Add deduplication logic in final table using MERGE
-
----
-
-## 📄 License
-
-MIT License.
-
----
